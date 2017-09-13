@@ -1,3 +1,4 @@
+"use strict";
 (function($, $$) {
 
 Mavo.Plugins.register("markdown", {
